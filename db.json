@@ -1,5 +1,5 @@
 {
-  "localhost:8000_73": [
+  "localhost:8000_73": 
     {
        "lastViewTimestamp": "2019-04-01 06:07:58+00:00",
        "initialPromptTimestamp": "2019-04-01 06:06:00+00:00",
@@ -9,5 +9,4 @@
        "documentLocation": "https://s3.amazonaws.com/revelup-s3-use1-ss-clientdocuments/dev/eula/1",
        "objectId": "customer1_80"
     }
-  ]
 }
