@@ -7,7 +7,7 @@
        "customerEmail": "mockCustomerEmail",
        "documentTitle": "testTitle",
        "documentLocation": "https://s3.amazonaws.com/revelup-s3-use1-ss-clientdocuments/dev/eula/1",
-       "objectId”: “customer1_80"
+       "objectId": "customer1_80"
     }
   ]
 }
